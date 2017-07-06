@@ -1,0 +1,11 @@
+#English US language translation for Animus mod
+
+#Creative Tab
+itemGroup.animus=Animus
+
+#Items
+item.animus_caged.name=Animus (Caged)
+
+item.zarbi_caged.name=Zarbi (Caged)
+
+item.larvae_gun_caged.name=Larvae Gun (Caged)

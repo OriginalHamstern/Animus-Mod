@@ -1,0 +1,16 @@
+[
+{
+  "modid": "animusmod",
+  "name": "Animus Mod",
+  "description": "Adds stuff related to Animus from the Doctor Who series.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Hamstern"],
+  "credits": "Hamster - Creator, Coder, Designer",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
